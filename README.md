@@ -1,5 +1,7 @@
 # C++14 Lambdas : You've got in-place anonymous functions
 
+[Youtube link of the video Tutorial of this Page](https://www.youtube.com/watch?v=nF9Z6vi9wKA)
+
 *C++ Lambdas (C++11/14)  are used widely for writing in-place functions and generally enhances the functionality of C++. Though in-place anonymous function definition is relatively new to C++ as compared to many other languages, but extremely easy to understand and make use of*
 
 *This intro is divided into various modules to make it easy to learn C++ lambdas*
