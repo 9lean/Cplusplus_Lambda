@@ -46,7 +46,7 @@
 
 ```
 ### 4.4 Passing all local variables at once (By reference)
-*In situations where all local variables needs to be passed by value, we can do it via using '&' sign in capture list as shown in sample code below*
+*In situations where all local variables needs to be passed by reference, we can do it via using '&' sign in capture list as shown in sample code below*
 
 ```
 {
